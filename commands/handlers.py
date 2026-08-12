@@ -17,6 +17,8 @@ SUPPORTED_COMMANDS = {
     "LOGOUT",
     "CD",
     "LS",
+    "GET",
+    "PUT",
 }
 
 

@@ -173,9 +173,15 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# End of https://www.toptal.com/developers/gitignore/api/python
-
-rough.md
-rough.py
+# End of https://www.toptal.com/developers/gitignore/api/pythonz
 
 
+storage/documents/
+storage/downloads
+storage/downloads/book.pdf
+storage/downloads/layout.html
+
+client_downloads/hello.ts
+client_downloads/book.pdf
+
+image123.jpg
