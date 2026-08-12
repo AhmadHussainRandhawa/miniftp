@@ -20,7 +20,7 @@ No FTP libraries. No web framework. Just TCP sockets, a custom application-layer
 
 ## 🎬 See it in action
 
-https://github.com/user-attachments/assets/75238e31-93b9-484c-9a33-6ad9e85637e7
+https://github.com/user-attachments/assets/abf039fc-b3e4-478e-b9ca-0cf9b47b4a9a
 
 *Live run: TCP connection → authentication → virtual filesystem navigation → file download → binary file upload → graceful logout.*
 
