@@ -122,6 +122,9 @@ def main():
 
             print(f"Server: {response}")
 
+            if message.upper() == "QUIT":
+                break
+
             #
             # GET
             #
