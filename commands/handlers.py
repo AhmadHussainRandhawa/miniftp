@@ -47,9 +47,9 @@ def handle_info(arguments: list[str], session) -> dict:
     
 
     message = (
-        f"{SERVER_NAME} v{SERVER_VERSION}"
-        f"User: {username}"
-        f"Authenticated: {authenticated}"
+        f"{SERVER_NAME} v{SERVER_VERSION}, "
+        f"User: {username}, "
+        f"Authenticated: {authenticated} "
     )
 
     return ok(message)
